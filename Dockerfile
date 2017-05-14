@@ -13,3 +13,4 @@ RUN echo -e  "[global]\ndaemonize = no\n[www]\nclear_env = no\ncatch_workers_out
 RUN mkdir -p /nginx/www
 EXPOSE 9000
 CMD ["php-fpm"]
+1111111
